@@ -3,8 +3,8 @@ import { IoIosArrowForward } from "react-icons/io";
 
 const RightSidemenu = () => {
   return (
-    <div className="bg-slate-200 h-[730px] p-4 flex flex-col items-center">
-      <div className="flex flex-col items-center">
+    <div className="bg-slate-200 h-[730px] p-4  items-center">
+      <div className=" items-center">
         <img
           src="./user.jpg"
           alt="user image"
@@ -22,15 +22,119 @@ const RightSidemenu = () => {
           <img src="./blog.jpg" alt="" className="h-12 w-12 rounded-full" />
           <div>
             <div className="flex items-center">
-              <div>
-                <p className="text-xs font-bold">Lorem ipsum adipisicing...</p>
-                <p className="text-gray-600 text-xs">
+              <div className=" items-center gap-1">
+                <p className="text-[11px] font-bold">
+                  Lorem ipsum adipisicing...
+                </p>
+                <p className="text-gray-600 text-[10px]">
                   {" "}
                   amet consectetur adipisic velit...
                 </p>
               </div>
+              <IoIosArrowForward />
             </div>
-            <IoIosArrowForward />
+          </div>
+        </div>
+        <div className="flex items-center gap-2">
+          <img src="./blog.jpg" alt="" className="h-12 w-12 rounded-full" />
+          <div>
+            <div className="flex items-center">
+              <div className=" items-center gap-1">
+                <p className="text-[11px] font-bold">
+                  Lorem ipsum adipisicing...
+                </p>
+                <p className="text-gray-600 text-[10px]">
+                  {" "}
+                  amet consectetur adipisic velit...
+                </p>
+              </div>
+              <IoIosArrowForward />
+            </div>
+          </div>
+        </div>
+        <div className="flex items-center gap-2">
+          <img src="./blog.jpg" alt="" className="h-12 w-12 rounded-full" />
+          <div>
+            <div className="flex items-center">
+              <div className=" items-center gap-1">
+                <p className="text-[11px] font-bold">
+                  Lorem ipsum adipisicing...
+                </p>
+                <p className="text-gray-600 text-[10px]">
+                  {" "}
+                  amet consectetur adipisic velit...
+                </p>
+              </div>
+              <IoIosArrowForward />
+            </div>
+          </div>
+        </div>
+        <div className="flex items-center gap-2">
+          <img src="./blog.jpg" alt="" className="h-12 w-12 rounded-full" />
+          <div>
+            <div className="flex items-center">
+              <div className=" items-center gap-1">
+                <p className="text-[11px] font-bold">
+                  Lorem ipsum adipisicing...
+                </p>
+                <p className="text-gray-600 text-[10px]">
+                  {" "}
+                  amet consectetur adipisic velit...
+                </p>
+              </div>
+              <IoIosArrowForward />
+            </div>
+          </div>
+        </div>
+        <div className="flex items-center gap-2">
+          <img src="./blog.jpg" alt="" className="h-12 w-12 rounded-full" />
+          <div>
+            <div className="flex items-center">
+              <div className=" items-center gap-1">
+                <p className="text-[11px] font-bold">
+                  Lorem ipsum adipisicing...
+                </p>
+                <p className="text-gray-600 text-[10px]">
+                  {" "}
+                  amet consectetur adipisic velit...
+                </p>
+              </div>
+              <IoIosArrowForward />
+            </div>
+          </div>
+        </div>
+        <div className="flex items-center gap-2">
+          <img src="./blog.jpg" alt="" className="h-12 w-12 rounded-full" />
+          <div>
+            <div className="flex items-center">
+              <div className=" items-center gap-1">
+                <p className="text-[11px] font-bold">
+                  Lorem ipsum adipisicing...
+                </p>
+                <p className="text-gray-600 text-[10px]">
+                  {" "}
+                  amet consectetur adipisic velit...
+                </p>
+              </div>
+              <IoIosArrowForward />
+            </div>
+          </div>
+        </div>
+        <div className="flex items-center gap-2">
+          <img src="./blog.jpg" alt="" className="h-12 w-12 rounded-full" />
+          <div>
+            <div className="flex items-center">
+              <div className=" items-center gap-1">
+                <p className="text-[11px] font-bold">
+                  Lorem ipsum adipisicing...
+                </p>
+                <p className="text-gray-600 text-[10px]">
+                  {" "}
+                  amet consectetur adipisic velit...
+                </p>
+              </div>
+              <IoIosArrowForward />
+            </div>
           </div>
         </div>
       </div>

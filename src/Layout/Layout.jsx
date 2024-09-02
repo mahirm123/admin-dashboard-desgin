@@ -15,7 +15,7 @@ const Layout = () => {
           <LeftSideMenu />
         </div>
         {/* Outlet */}
-        <div className="col-span-6 mt-8 px-5 -ml-36">
+        <div className="col-span-6 mt-8 px-5 -ml-44">
           <Outlet />
         </div>
         <div className="col-span-2">
